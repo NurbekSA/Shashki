@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZLIKBQPJf+vcNNBVdM4rDAvLH1mYvKU/r++Mzsrt2NIXAjwZMc0+5vY3YTwI3BLvc/vvFJgVn4ay2dOIySOEJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pc\\source\\repos\\ConsoleApp122-2023-10-05\\ConsoleApp122-2023-10-05\\ConsoleApp122-2023-10-05.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pc\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Pc\\.nuget\\packages\\system.reactive\\6.0.0\\system.reactive.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
